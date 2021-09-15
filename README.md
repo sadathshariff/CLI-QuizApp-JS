@@ -2,4 +2,7 @@
 
 Hi, Welcome !!
 I have Created a JavaScript Quiz CLI Quiz APP using Repl.it
-You can play the quiz using the link in the about section
+You can check your Knowledge in JavaScript by playing this Quiz,
+click the link below to play.
+
+[Play](https://replit.com/@sadathshariff/javascript-quiz?embed=1&output=1)
