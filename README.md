@@ -1,7 +1,7 @@
 # CLI QUIZ APP About JavaScript
 
 Hi, Welcome !!
-I have Created a JavaScript Quiz CLI Quiz APP using Repl.it
+I have Created a JavaScript CLI Quiz APP using Repl.it
 You can check your Knowledge in JavaScript by playing this Quiz,
 click the link below to play.
 
